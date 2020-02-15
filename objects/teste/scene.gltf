@@ -1,0 +1,655 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 572,
+      "max": [
+        135.27421569824219,
+        35.303443908691406,
+        135.00717163085938
+      ],
+      "min": [
+        -134.20730590820312,
+        -35.3704833984375,
+        -135.00717163085938
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 6864,
+      "componentType": 5126,
+      "count": 572,
+      "max": [
+        1,
+        0.99546360969543457,
+        0.99802678823471069
+      ],
+      "min": [
+        -1,
+        -0.98295074701309204,
+        -0.99802678823471069
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 572,
+      "max": [
+        0.9996335506439209,
+        0.057816639542579651,
+        0.99665725231170654,
+        1
+      ],
+      "min": [
+        -0.99981313943862915,
+        -0.057816594839096069,
+        -1,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 572,
+      "max": [
+        1,
+        1
+      ],
+      "min": [
+        0,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 2250,
+      "max": [
+        571
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 13728,
+      "componentType": 5126,
+      "count": 536,
+      "max": [
+        103.90000152587891,
+        11.226298332214355,
+        103.90000152587891
+      ],
+      "min": [
+        -103.90000152587891,
+        -65.226295471191406,
+        -103.90000152587891
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 20160,
+      "componentType": 5126,
+      "count": 536,
+      "max": [
+        1,
+        0.94021362066268921,
+        1
+      ],
+      "min": [
+        -1,
+        -0.94021362066268921,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 9152,
+      "componentType": 5126,
+      "count": 536,
+      "max": [
+        1,
+        0.99738228321075439,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 9000,
+      "componentType": 5125,
+      "count": 1152,
+      "max": [
+        535
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 26592,
+      "componentType": 5126,
+      "count": 1181,
+      "max": [
+        103.90000152587891,
+        11.226298332214355,
+        103.90000152587891
+      ],
+      "min": [
+        -103.90000152587891,
+        -27,
+        -103.90000152587891
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 40764,
+      "componentType": 5126,
+      "count": 1181,
+      "max": [
+        0.99933046102523804,
+        1,
+        0.99973684549331665
+      ],
+      "min": [
+        -0.99933046102523804,
+        -0.95182502269744873,
+        -0.99973684549331665
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 17728,
+      "componentType": 5126,
+      "count": 1181,
+      "max": [
+        1,
+        0.85812890529632568,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -0.99738222360610962,
+        -0.99843651056289673,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 13608,
+      "componentType": 5125,
+      "count": 2376,
+      "max": [
+        1180
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "David Sims (https://sketchfab.com/HongoMotion)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/e3d996010fcc4cb19d60d685d529cc81",
+      "title": "Llanta de carro"
+    },
+    "generator": "Sketchfab-3.20.7",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 23112,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4576,
+      "byteOffset": 23112,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 54936,
+      "byteOffset": 27688,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 36624,
+      "byteOffset": 82624,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 119248,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/llanta_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "llanta",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.56000000000000005,
+          0.56000000000000005,
+          0.56000000000000005,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "roughnessFactor": 0.68999999999999995
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "rin_metal",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.26950000000000002,
+          0.26950000000000002,
+          0.26950000000000002,
+          1
+        ],
+        "metallicFactor": 1,
+        "roughnessFactor": 0.22
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "llanta_llanta_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "rin_2_rin metal_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7
+          },
+          "indices": 8,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "rin_rin metal_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9,
+            "TANGENT": 11
+          },
+          "indices": 12,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.69186240434646606,
+        -0.72202938795089722,
+        0,
+        0,
+        0.72202938795089722,
+        0.69186240434646606,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -0.010475226677954197,
+        -0.024164125323295593,
+        0,
+        1
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Rin de carro.fbx"
+    },
+    {
+      "children": [
+        4,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-16,
+        1,
+        0,
+        0,
+        -1,
+        2.2204460492503131e-16,
+        0,
+        325.30056762695312,
+        -533.33734130859375,
+        0,
+        1
+      ],
+      "name": "Light"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-16,
+        1,
+        0,
+        0,
+        -1,
+        2.2204460492503131e-16,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": ""
+    },
+    {
+      "name": ""
+    },
+    {
+      "children": [
+        8,
+        11,
+        15
+      ],
+      "matrix": [
+        4.4408920985006262e-16,
+        -1,
+        0,
+        0,
+        1,
+        4.4408920985006262e-16,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        9,
+        -133.18930053710938,
+        0,
+        1
+      ],
+      "name": "llanta_carro"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -9,
+        0,
+        1
+      ],
+      "name": "Subdivision_Surface_1"
+    },
+    {
+      "children": [
+        10
+      ],
+      "name": "llanta"
+    },
+    {
+      "mesh": 0,
+      "name": "llanta_llanta_0"
+    },
+    {
+      "children": [
+        12
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -9,
+        0,
+        1
+      ],
+      "name": "Symmetry"
+    },
+    {
+      "children": [
+        13
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        27,
+        0,
+        1
+      ],
+      "name": "Subdivision_Surface"
+    },
+    {
+      "children": [
+        14
+      ],
+      "name": "rin_2"
+    },
+    {
+      "mesh": 1,
+      "name": "rin_2_rin metal_0"
+    },
+    {
+      "children": [
+        16
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        18,
+        0,
+        1
+      ],
+      "name": "Subdivision_Surface_2"
+    },
+    {
+      "children": [
+        17
+      ],
+      "name": "rin"
+    },
+    {
+      "mesh": 2,
+      "name": "rin_rin metal_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
+

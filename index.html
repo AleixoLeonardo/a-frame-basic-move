@@ -1,0 +1,25 @@
+<!DOCTYPE>
+<html>
+
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aframe/0.7.1/aframe.js"></script>
+    <script src="index.js"></script>
+</head>
+
+<body>
+    <a-scene>
+
+        <a-entity id="rig" position="-0 5 4">
+            <a-entity id="camera" camera look-controls></a-entity>
+        </a-entity>
+        <a-gltf-model id ="ambiente" 
+        src="./objects/teste/scene.gltf" position = "-7 0.5 -3" rotation="0 0 0" scale="2 2 2"" size="20px"> </a-gltf-model>
+
+        <a-box id="caixa-1" position="-1 0.5 -3" onclick="acao(1)" rotation="0 45 0" color="blue"></a-box>
+        <a-box id="caixa-2" position="1.5 0.5 -3" onclick="acao(2)" rotation="0 45 0" color="green"></a-box>
+        <a-plane position="0 0 -4" rotation="-90 0 0" width="40" height="40 color=" black"></a-plane>
+        <a-sky color="#999999"></a-sky>
+    </a-scene>
+</body>
+
+</html>
